@@ -1,0 +1,6 @@
+DNS Reading
+1. From a more cryptographic/mathematical perspective, what is the weakest link in DNSSEC’s chain of trust? for example what happens when a private key is exposed. 
+
+2. One strategy could be for users to switch from ISP DNS resolvers to a small number of large public DoH resolvers, but this create a tradeoff between greater security/privacy and centralization 
+
+3. How does a normal user’s device verify DNSSEC’s chain of trust in practice, and where does the initial trust come from if the user never manually verifies any of the keys?
