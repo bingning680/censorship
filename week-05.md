@@ -1,0 +1,8 @@
+1. Could transparency actually threaten moderation effectiveness?
+Making moderation algorithms and criteria publicly accessible might be one of the ways to improve accountability, but it could also help malicious actors identify exactly how to evade detection. How should platforms and governance policy balance transparency against the possibility of adversarial manipulation?
+2. Is personalization fundamentally different from censorship, or just another name like a less visible form of it? Every rec algorithm must rank some information above other information; we’ve covered other non-blocking ways such as flooding.
+   So If all ranking necessarily influences attention, what distinguishes personalization from objectionable information manipulation - or, could all form of censorship just claim they are doing user agreed personalization?
+- With the student presentation last week about people “genuinely” prefer the echo chamber: Should respecting user autonomy mean also preserving their ability to develop preferences they do not yet have? 
+3. About Community Notes: If misinformation influences people’s beliefs or decisions before a correction arrives, can subsequent fact-checking meaningfully reverse the harm?
+A trade-off sacrifice is, should moderation systems prioritize preventing initial exposure, even at the cost of more false positives and suppression, or preserve immediate publication and accept that some harms may be irreversible?
+4. I’m also interested in appeals about content visibility issues, especially considering the platform can just say it’s the content’s natural response, not adverse decision on their part. Are there any cases that successfully fight back the obscure system?
